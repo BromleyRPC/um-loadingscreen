@@ -4,7 +4,9 @@
 - Added 21' DSU Skoda (Thanks Arch)
 - Added RNLI Base (Thanks Mann)
 - Changed server version to 2612
-- Added 21' LFB FRU
+- Added 21' LFB FRU (Thanks Mann)
+- FIXED ROCKSTAR EDITOR
+- Removed evidence bag
 
 29/09/2022
 - Added scenes command (/scene)
@@ -27,7 +29,6 @@
 
 15/09/2022
 - Added 80+ Browns MLO's
-- Fixed Rockstar Editor
 
 13/09/2022 v2
 - Added MPU Dinghy (Thanks Hill)
