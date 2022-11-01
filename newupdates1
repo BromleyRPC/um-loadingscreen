@@ -1,3 +1,7 @@
+01/11/22
+- Adjusted code, and reverted back to old loading screen
+- Improved serverside optimisation
+
 27/10/22
 - Changed LAS DCA Handling Lines (Slower)
 - Revamped VS Menu
