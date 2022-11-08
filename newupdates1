@@ -1,3 +1,19 @@
+08/11/22
+- Fixed ANPR
+- Added Water Monitor Script for LFB
+- Fixed Taser
+- Fixed Smart Matrix
+- Added Decontamination Tent
+- Added average speed cameras
+- Added SmartSigns
+- Added BikeHire
+- Added SmartDrone
+- Added VehicleRescue
+- Added FireSupplyLine
+- Added RescueCushion
+- Added Rope Rescue Tripod & Basket
+- Added ThrowBag
+
 01/11/22
 - Adjusted code, and reverted back to old loading screen
 - Improved serverside optimisation
